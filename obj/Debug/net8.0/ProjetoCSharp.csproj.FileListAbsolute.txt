@@ -1,0 +1,15 @@
+/workspace/ProjetoCSharp/bin/Debug/net8.0/ProjetoCSharp
+/workspace/ProjetoCSharp/bin/Debug/net8.0/ProjetoCSharp.deps.json
+/workspace/ProjetoCSharp/bin/Debug/net8.0/ProjetoCSharp.runtimeconfig.json
+/workspace/ProjetoCSharp/bin/Debug/net8.0/ProjetoCSharp.dll
+/workspace/ProjetoCSharp/bin/Debug/net8.0/ProjetoCSharp.pdb
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.AssemblyInfoInputs.cache
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.AssemblyInfo.cs
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.csproj.CoreCompileInputs.cache
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.sourcelink.json
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.dll
+/workspace/ProjetoCSharp/obj/Debug/net8.0/refint/ProjetoCSharp.dll
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.pdb
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ProjetoCSharp.genruntimeconfig.cache
+/workspace/ProjetoCSharp/obj/Debug/net8.0/ref/ProjetoCSharp.dll
